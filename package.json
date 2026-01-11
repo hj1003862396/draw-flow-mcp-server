@@ -3,6 +3,7 @@
     "version": "1.0.1",
     "description": "MCP server for Next AI Draw.io - AI-powered diagram generation with real-time browser preview",
     "type": "module",
+    "mcpName": "io.github.hj1003862396/draw-flow-mcp-server",
     "main": "dist/index.js",
     "bin": {
         "draw-flow-mcp": "./dist/index.js"
