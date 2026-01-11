@@ -25,12 +25,12 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hj1003862396/draw-flow/draw-flow-mcp-server",
+        "url": "https://github.com/hj1003862396/draw-flow-mcp-server.git",
         "directory": "packages/mcp-server"
     },
-    "homepage": "https://github.com/hj1003862396/draw-flow#readme",
+    "homepage": "https://github.com/hj1003862396/draw-flow-mcp-server#readme",
     "bugs": {
-        "url": "https://github.com/hj1003862396/draw-flow/issues"
+        "url": "https://github.com/hj1003862396/draw-flow-mcp-server/issues"
     },
     "publishConfig": {
         "access": "public"
